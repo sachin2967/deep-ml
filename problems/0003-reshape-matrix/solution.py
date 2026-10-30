@@ -6,5 +6,6 @@ def reshape_matrix(a: list[list[int|float]], new_shape: tuple[int, int]) -> list
 	if new_shape[0]*new_shape[1] != arr.size:
 		return []
 	
-	return arr.reshape(new_shape).tolist() #another way to solve
+	# return arr.reshape(new_shape).tolist() #another way to solve
+	return list(arr.reshape(new_shape))
 	
