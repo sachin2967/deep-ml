@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**23** solved · 23 problems · 0 labs · 0 math
+**24** solved · 24 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -35,6 +35,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-10-30 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Log-Probability Ratio for Token Sequences](https://www.deep-ml.com/problems/489) | medium | 2026-11-02 | [solution](problems/0489-log-probability-ratio-for-token-sequences) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-10-30 | [solution](problems/0007-matrix-transformation) |
+| [RSE, R-Squared and the F-Statistic](https://www.deep-ml.com/problems/1361) | medium | 2026-11-03 | [solution](problems/1361-rse-r-squared-and-the-f-statistic) |
 
 ---
 

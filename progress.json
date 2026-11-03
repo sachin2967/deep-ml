@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T16:51:55.296Z",
+  "generated_at": "2026-11-03T17:05:10.017Z",
   "items": {
     "problem:1101": {
       "kind": "problem",
@@ -299,6 +299,19 @@
       "last_pushed_at": "2026-11-02T16:51:50.830Z",
       "language": "python",
       "lines": 37
+    },
+    "problem:1361": {
+      "kind": "problem",
+      "id": "1361",
+      "title": "RSE, R-Squared and the F-Statistic",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/1361",
+      "path": "problems/1361-rse-r-squared-and-the-f-statistic",
+      "first_solved_at": "2026-11-03T17:05:09.256Z",
+      "last_pushed_at": "2026-11-03T17:05:09.256Z",
+      "language": "python",
+      "lines": 38
     }
   }
 }
